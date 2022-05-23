@@ -1,0 +1,76 @@
+body {
+
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    background-image: url(https://image.shutterstock.com/image-vector/veterinarian-typographic-header-veterinary-doctor-260nw-1998207260.jpg);
+    background-repeat: no-repeat;
+    width: 1200px;
+    margin-left: 300px;
+    margin-top: 50px;
+    padding: 100px;
+}
+
+h1,
+p {
+    color: rgb(24, 14, 221);
+
+}
+
+.p {
+    color: #000;
+    font-size: 30px;
+}
+
+#texto {
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+
+
+.boton {
+
+    background-color: rgb(150, 207, 216);
+    border-radius: 5px;
+    color: #f4f5f9;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.boton:hover {
+
+    background: rgb(12, 8, 0);
+    cursor: pointer;
+
+}
+
+.video {
+
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 110px;
+    left: 50px;
+
+}
+
+
+.mapa {
+
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 200px;
+    left: 50px;
+}
+
+.formulario {
+    color: #050771;
+}
